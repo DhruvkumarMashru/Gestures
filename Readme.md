@@ -3,9 +3,13 @@
 👋 Welcome to the Gesture Control Project repository! This project is designed to enable users to control their electronic devices using hand gestures. The project includes five modules, each with its own unique functionality:
 
 💻 Virtual Mouse
+
 ⌨️ Keyboard
+
 🔊 Volume Control
+
 ☀️ Brightness Control
+
 📊 PPT Control
 
 Virtual Mouse
